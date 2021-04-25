@@ -304,490 +304,62 @@ c. Change the factory-set default password and username.
 
 
 <p align="justify"> 
+26. If a suspicious package appears at your desk, which action is best aligned with good physical security practices?
+a. Get your neighbour to open the package.
+b. Carefully open the package and report what you find.
+c. Report the package and do not open or touch it. 
+d. Destroy the package using an industrial shredder.
 <details>
 <summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
+c. Report the package and do not open or touch it. 
 </details></p>
 
 
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
-
-</details></p>
-
 
 <p align="justify"> 
+27. Identify two best practices for physical security awareness. (Choose two.)
+a. Lock your computer screen and mobile devices every time you step away. 
+b. Keep your desk free of any proprietary or confidential information. 
+c. Always be considerate, such as holding the door open for people, even if you don’t know them.
+d. Follow your organization’s security policies unless they hinder efficiency.
 <details>
 <summary markdown="span">Answer :</summary>
-
+  a. Lock your computer screen and mobile devices every time you step away. </br> b. Keep your desk free of any proprietary or confidential information. 
 </details></p>
 
 
 <p align="justify"> 
+28. Which practice strengthens the physical security of your work environment?
+a. Shred and destroy all documents that contain sensitive personal or organizational information rather than tossing them into the waste bin. 
+b. Pile all confidential documents neatly to one corner of your desk.
+c. Ensure that your software is up-to-date and that the latest patches are applied.
+d. Recycle all paper, CDs, DVDs, hard drives etc. into their appropriate bins.
 <details>
 <summary markdown="span">Answer :</summary>
-
+a. Shred and destroy all documents that contain sensitive personal or organizational information rather than tossing them into the waste bin. 
 </details></p>
 
 
 <p align="justify"> 
+29. Who are included as insider threats?
+a. Employees who sometimes do not follow security practices 
+b. Another organization or person who see themselves as competitors
+c. Ambitious people
+d. Any person with network security skills who works outside an organization
 <details>
 <summary markdown="span">Answer :</summary>
-
+a. Employees who sometimes do not follow security practices 
 </details></p>
 
 
 <p align="justify"> 
+30. Why are insider threats one of the most challenging attack vectors?
+a. There is little that can be done to prevent a denial of service attack.
+b. Insider attacks are common, obvious, and overwhelm IT security.
+c. Network security is designed to defend against outsiders, not insiders.
+d. Employees are trusted users who have legitimate access to an organization’s data and resources. 
 <details>
 <summary markdown="span">Answer :</summary>
-
+d. Employees are trusted users who have legitimate access to an organization’s data and resources. 
 </details></p>
-
-
-<p align="justify"> 
-<details>
-<summary markdown="span">Answer :</summary>
 
-</details></p>
