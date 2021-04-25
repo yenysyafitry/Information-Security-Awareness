@@ -182,37 +182,63 @@ b. Encrypt the backup data for an extra layer of protection.
 
 
 <p align="justify"> 
+16. Identify three examples of personally identifiable information (PII). (Choose three.)</br>
+a. A one-time passcode sent to your device</br>
+b. Biometrics, such as a fingerprint </br>
+c. Credit card </br>
+d. Full name 
+Your network login credentials  
 <details>
 <summary markdown="span">Answer :</summary>
-
+b. Biometrics, such as a fingerprint </br>c. Credit card </br>d. Full name 
 </details></p>
 
 
 <p align="justify"> 
+17. Which description best identifies the term malicious code?</br>
+a. An unwanted file or program that can cause harm to, or compromise data on, a computer </br>
+b. Code that does not behave in the manner intended by its author</br>
+c. A program that has flaws in it</br>
+d. Untested code that a vendor releases to the public
 <details>
 <summary markdown="span">Answer :</summary>
-
+a. An unwanted file or program that can cause harm to, or compromise data on, a computer 
 </details></p>
 
 
 <p align="justify"> 
+18. Identify the best description of vishing.</br>
+a. A fraudulent email that pretends to be from a reputable source that targets a group of people for purposes of disclosing information</br>
+b. A phone exploitation that often relies on caller ID to appear legitimate </br>
+c. The process of introducing malware by some security loophole in an application</br>
+d. A fraudulent text-based message that attempts to trick someone into divulging information
 <details>
 <summary markdown="span">Answer :</summary>
-
+b. A phone exploitation that often relies on caller ID to appear legitimate 
 </details></p>
 
 
 <p align="justify"> 
+19. Which description best explains cybersecurity?</br>
+a. Strategic Defence Initiative (SDI)</br>
+b. Protecting networks, devices, and data from unauthorized access </br>
+c. Securing cyber advantages over a business competitor</br>
+d. Home and business security, using motion sensors and monitored by a security vendor
 <details>
 <summary markdown="span">Answer :</summary>
-
+b. Protecting networks, devices, and data from unauthorized access 
 </details></p>
 
 
 <p align="justify"> 
+20. Which definition best describes personally identifiable information (PII)?</br>
+a. A government-issued number that is used to identify a citizen, mostly for tax purposes</br>
+b. Any information that someone can use to identify you </br>
+c. A means of identifying the author of information</br>
+d. Personal preferences, such as favourite settings in applications
 <details>
 <summary markdown="span">Answer :</summary>
-
+b. Any information that someone can use to identify you 
 </details></p>
 
 
