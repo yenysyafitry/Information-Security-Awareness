@@ -243,37 +243,63 @@ b. Any information that someone can use to identify you
 
 
 <p align="justify"> 
+21. Which three of the following activities represents data vulnerabilities on a mobile device. (Choose three.)</br>
+a. Social networking </br>
+b. Creating contacts</br>
+c. Listening to music</br>
+d. Synchronization between computers and mobile devices </br>
+e. Banking 
 <details>
 <summary markdown="span">Answer :</summary>
-
+  a. Social networking </br>d. Synchronization between computers and mobile devices </br>e. Banking 
 </details></p>
 
 
 <p align="justify"> 
+22. Which is the number one infection vector for all kinds of malware?</br>
+a. Text messages</br>
+b. Web pages</br>
+c. Juice jacking</br>
+d. Email 
 <details>
 <summary markdown="span">Answer :</summary>
-
+d. Email 
 </details></p>
 
 
 <p align="justify"> 
+23. Which precaution should you take if you receive an email that involves the movement of money, such as the payment of an invoice, even if it is from someone you know?</br>
+a. Pay it immediately to avoid late fees.</br>
+b. Use another form of trusted communication to verify that the message is legitimate. </br>
+c. Reply to the email and ask them to provide proof of their identity.</br>
+d. Look for spelling mistakes in the email. If you find any, delete the email. It’s obviously a scam.
 <details>
 <summary markdown="span">Answer :</summary>
-
+b. Use another form of trusted communication to verify that the message is legitimate. 
 </details></p>
 
 
 <p align="justify"> 
+24. You receive an email from your bank. It states that someone has your password and that you must take immediate action by clicking the link provided. What should you do?</br>
+a. Reply to the email to confirm that they have the correct account by providing your bank account number.</br>
+b. Delete and report it to the bank by using the contact information found on their website. </br>
+c. Click the link and change your password. Time is of the essence.</br>
+d. Scour the email for spelling mistakes. If there are none, then the email is legitimate and you can click the link.
 <details>
 <summary markdown="span">Answer :</summary>
-
+b. Delete and report it to the bank by using the contact information found on their website. 
 </details></p>
 
 
 <p align="justify"> 
+25. Which of the following is a good habit for protecting your mobile device?</br>
+a. Configure your email accounts.</br>
+b. Set up a personal hotspot.</br>
+c. Change the factory-set default password and username. </br>
+d. Test connectivity by doing online banking.
 <details>
 <summary markdown="span">Answer :</summary>
-
+c. Change the factory-set default password and username.
 </details></p>
 
 
